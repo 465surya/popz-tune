@@ -6,9 +6,3 @@
    onmouseout="this.style.animation='none';">
   Click here to watch the demo
 </a>
-
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
